@@ -1,4 +1,10 @@
-This repo is a logical fork of [main WASI repo](https://github.com/WebAssembly/WASI) for proposing the wasi-nn module. 
+# WebAssembly System Interface for Neural Network
+
+This repo is a logical fork of [main WASI repo](https://github.com/WebAssembly/WASI) for proposing the wasi-nn module.
+
+Wasi-nn is a Neural Network interface for WebAssemblly.
+
+The motivation for wasi-nn is described [here](https://www.w3.org/2020/06/machine-learning-workshop/talks/introducing_wasi_nn.html).
 
 ----
 
